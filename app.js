@@ -6,7 +6,7 @@ var server = http.createServer(function (request, response) {
     response.end("Sup J-Dog Test \n");
 });
 
-server.listen(7000);
+server.listen(8080);
 
 
 
